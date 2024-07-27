@@ -27,11 +27,15 @@
 
 .inner-header {
     padding: 2px;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
     background-color: #101010;
 }
 
 .logo-container h1{
     color: #ffffff;
+    padding-left: 10px;
 }
 
 .content ul li{
@@ -42,4 +46,17 @@
 
 .content a{
     text-decoration: none;
+}
+
+img {
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #101010;
+    color: #ffffff;
+    padding: 4px;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
 }
